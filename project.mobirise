@@ -1,0 +1,2159 @@
+{
+  "settings": {
+    "currentPage": "proc.html",
+    "name": "De Boys",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c1c1c1",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#ffffff",
+        "infoColor": "#000000",
+        "warningColor": "#41a85f",
+        "dangerColor": "#f28281",
+        "titleFont": "Raleway",
+        "subtitleFont": "Roboto Condensed",
+        "textFont": "Oxygen",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 141,
+    "versionPublish": "3.9.2",
+    "favicon": "",
+    "noImageResize": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/OskarDR/Desktop/SCHOOL/3BaIA/Casestudy/Multidisciplinariteit/WEBSITE/v3",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88258358-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-30-om-10-160x128-13.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DE BOYS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">VOORONDERZOEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proc.html\">PROCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prod.html\">PRODUCT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"arch.html\">ARCHIEF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/beeld-1-2000x2000-85.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<a href=\"https://nl.wikipedia.org/wiki/Kairos_(mythologie)\" target=\"_blank\" class=\"text-info\">Kairos</a>, please",
+          "text": "<br><span style=\"line-height: 1.5;\">Bij het maken van een kunstobject vinden wij het belangrijk dat iedereen er iets in kan herkennen. Tijd is iets universeels en is daarom ook ons centrale thema geworden. Iedereen leeft in de tijd, heeft tijd te weinig en wil tijd winnen. In onze huidige maatschappij is tijd ook iets heel economisch: \"time is money\". En aangezien heel de wereld &nbsp;voortdurend bezig is met het opbouwen van materiële rijkdom, blijft ook die tijd doortikken. Dit is echter geen onschuldig fenomeen, tijd oefent namelijk ook druk uit op mensen. Dit leidt vaak tot stress en burn-outs, maar heeft eveneens een grote invloed op ons sociaal gedrag.</span><br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">Veel maatschappelijke problemen vandaag hebben te maken met de manier waarop onze maatsschappij is ingericht. Wij gaan een aantal problemen verder onderzoeken om er uiteindelijk iets mee te doen - mensen beïnvloeden, of ten minste zorgen voor een zekere bewustwording.<br></span><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        }
+      ]
+    },
+    "voor.html": {
+      "settings": {
+        "title": "Project - vooronderzoek"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-30-om-10-160x128-13.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DE BOYS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">VOORONDERZOEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proc.html\">PROCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prod.html\">PRODUCT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"arch.html\">ARCHIEF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Vooronderzoek",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"voor.html#content1-3s\">INFORMATIE -&gt; INSPIRATIE</a> &nbsp;<b>|</b> &nbsp;<a href=\"voor.html#content1-1m\">PLAYTIME</a> &nbsp;<b>|</b> <a href=\"voor.html#content1-3u\">&nbsp;INSPIRATIE -&gt; INFORMATIE </a>&nbsp;<b>|</b> &nbsp;<a href=\"voor.html#content1-1y\">CHRONOS EN KAIROS</a> &nbsp;<b>|</b> &nbsp;<a href=\"voor.html#content1-2t\">DE ESSENTIE</a></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-13",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Als inleiding van de opdracht, die draait rond het creëren van een kunstobject in het kader van multidisciplinariteit, kregen we 6 lezingen alvorens we van start gingen met het ontwerpen. De lezers waren, in chronologische volgorde: Vincent Buyssens, Leon Vranken, Renato Nicolodi, Dries Otten, James Kruger en Ellen Pil. Ze kwamen allemaal vertellen over het werk waar ze mee bezig zijn om ons te tonen hoe multidisciplinariteit in de praktijk vorm kan krijgen.</p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>INFORMATIE -&gt; INSPIRATIE</b></p><p><br></p><p>Geprikkeld door de lezingen, zijn we als team aan de slag gegaan om de elementen die ons het meest waren bijgebleven te filteren. Hier ging het vooral over zaken waarvan wij dachten dat ze ons zouden kunnen helpen in het proces, dingen die we zeker niet mochten vergeten als we op een goede manier multidisciplinair aan de slag wouden gaan. Onderstaande afbeelding is het resultaat van de eerste \"filtering\".</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-filosofie-1-1400x763-39.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Vervolgens zijn we de eerste filtering nogmaals gaan filteren, om een aantal kernwoorden te bekomen waarmee we dan zouden experimenteren. De experimenten dienden als een exploratie van wat multidisciplinariteit voor ons individueel kon betekenen. Zo ging iedereen aan de slag op een manier die hij zelf het leukste vond, om al \"spelend\" creaties te maken rond onderstaande begrippen.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-16",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-filosofie-2-1400x763-12.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">PLAYTIME</b><br></p><p><br></p><p>Zo is er bijvoorbeeld geëxperimenteerd met gegoten vormen, positieve en negatieve afdrukken van objecten en oppervlaktetexturen die bepaalde materialen suggereerden.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-27",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-inspiratie-1-1400x763-22.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Ook werd er gespeeld met digitale beelden. Wat gebeurt er als je twee bestaande esthetische elementen samenvoegt en er een nieuwe context aan geeft? Wat als je objecten in een collage ineens een heel andere schaal geeft? Wat is de grens tussen 2D en 3D? Wat zien we?</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-inspiratie-2-1400x763-61.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Hoe kunnen banale beelden of objecten een nieuwe betekenis krijgen of compleet onherkenbaar worden? Hoe ziet iets eruit als het met een andere techniek gemaakt wordt? Welke rol spelen kleuren en texturen bij het bewerken van een beeld?</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-29",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-inspiratie-3-1400x763-67.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Het was niet zozeer de bedoeling antwoord te krijgen op alle vragen, maar wel om ze op een eigenzinnige manier te stellen. Dit klein mini-onderzoek, dat aan het werkelijk vooronderzoek vooraf ging, heeft ons geholpen om zelf al eens na te denken over waar we juist naartoe wilden met de opdracht en wat we aan de toeschouwer wilden vertellen.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>INSPIRATIE -&gt; INFORMATIE</b></p><p><br></p><p>Nu het uiteindelijk gedaan was met \"spelen\", zijn we concreter gaan nadenken. Om te beginnen hebben we op een A1-blad per persoon een kwart gepakt en gedurende 5 minuten ideeën en associaties neergepend. Vervolgens hebben we het blad 3 keer 90° gedraaid en op het deel van een ander groepslid aangeduid wat we interessant vonden. Hierop volgde een discussie over de omcirkelde woorden en tekeningen zodat iedereen de kans kreeg om zijn ideeën uit te leggen en te nuanceren. Hieruit kwam ons centrale thema: \"tijd\" en een aantal begrippen die we verder wilden gaan onderzoeken. Op de kleine afbeeldingen onderaan kan ingezoomd worden om elk kwart beter te bekijken.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-brainstorm-1-1400x763-56.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart1-2000x1090-73-2000x1090-45.png",
+                "image": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart1-2000x1090-73.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart2-2000x1090-70-2000x1090-77.png",
+                "image": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart2-2000x1090-70.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart3-2000x1090-58-2000x1090-20.png",
+                "image": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart3-2000x1090-58.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart4-2000x1090-2-2000x1090-98.png",
+                "image": "@PROJECT_PATH@/assets/images/1-brainstorm-1-kwart4-2000x1090-2.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1u",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nieuwe begrippen, dus ook tijd voor een nieuw vel A1-papier. Allereerst zijn we de begrippen gaan opschrijven en hebben we, begrip per begrip en vertrekkend van de definitie in de Van Dale, nagedacht over wat deze woorden allemaal zouden kunnen betekenen. Hierbij hielden we altijd het centrale begrip \"tijd\" in het achterhoofd, om niet té breed te gaan. Nadat alles voldoende gedefiniëerd was, zijn we op zoek gegaan naar verbanden tussen de verschillende woorden en hun (deel)betekenissen.&nbsp;</p><p><br></p><p>Na deze tweede brainstorm hadden we al een concreter idee van wat we wouden doen en kwamen zowel \"tijd\" als \"confrontatie\" centraal te staan. We wouden mensen confronteren met tijd, met de manier waarop velen in de huidige samenleving met tijd omgaan. Veel mensen hollen heel de dag achter hun eigen plannen aan en vinden daardoor niet vaak genoeg rust. Op dit spanningsveld wilden we verder ingaan.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-brainstorm-2-1400x763-23.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart1-2000x1090-77-2000x1090-44.png",
+                "image": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart1-2000x1090-77.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart2-2000x1090-69-2000x1090-86.png",
+                "image": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart2-2000x1090-69.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart3-2000x1090-35-2000x1090-64.png",
+                "image": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart3-2000x1090-35.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart4-2000x1090-37-2000x1090-54.png",
+                "image": "@PROJECT_PATH@/assets/images/2-brainstorm-2-kwart4-2000x1090-37.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1x",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>CHRONOS EN KAIROS</b></p><p><br></p><p>Na deze twee brainstormsessies volgde een begeleidingsmoment met Faryda Moumouh, een gastdocente die samen met ons komt nadenken over onze onderwerpen en vanuit haar expertise als beeldend kunstenaar inspiratiebronnen aanreikt. Het belangrijkste dat naar boven kwam tijdens de begeleiding waren de begrippen Chronos en Kairos, die op een goede manier de dualiteit van de tijd weten te duiden.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Chronos en Kairos zijn twee Griekse mythologische figuren die ieder symbool staan voor een bepaald soort tijd.</span></p><p><br></p><p>Chronos, die wordt afgebeeld als een bebaarde oude man met een zandloper in de hand, staat voor de \"tikkende tijd\". Dit is de tijd die wij, mensen, uitdrukken in uren, minuten en seconden. De tijd die steeds aan hetzelfde tempo doortikt en zich herhaalt in een eindeloze cyclus. De tijd waarvan we nooit genoeg lijken te hebben, ook al plannen we alles zo goed. De tijd die we in onze horloges en smartphones bij ons dragen. De tijd die ons vaak immense stress bezorgt.</p><p><br></p><p>Anderzijds is er Kairos, de rebelse kleinzoon van Chronos, die wordt afgebeeld met een gevleugeld lijf, gevleugelde voeten, een punkkapsel en een weegschaal die op de scherpe kant van een mes rust. Kairos staat symbool voor momenten waarin de Chronos-tijd volledig lijkt te verdwijnen, momenten waarin kansen gegrepen kunnen worden. Momenten van pure focus, van écht bezig zijn. Momenten waarin grootse ontdekkingen worden gedaan. Dit zijn de momenten waarin mensen zichzelf verliezen, maar paradoxaal genoeg het meeste voeling hebben met wat \"leven\" nu eigenlijk is.</p><p><br></p><p>In het onderstaande beeld zijn verschillende tegenstellingen weergegeven om de betekenissen van de begrippen beter te duiden. De twee quotes onderaan komen uit het boek \"Kairos, een nieuwe bevlogenheid\" van Joke J. Hermsen (2015) en duiden voor ons de essentie van deze begrippen.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-filosofie-1-1400x763-58.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>DE ESSENTIE</b></p><p><br></p><p>Op deze tweedeling van tijd zijn we verder gegaan om een theoretisch kader rond het beoogde kunstobject op te bouwen. Ze stellen volgens ons heel goed voor waar mensen tegenwoordig vaak erg onder leiden (de Chronos-tijd) en waar mensen vaak krampachtig naar op zoek zijn als het allemaal even te veel wordt (de Kairos-tijd).</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"proc.html\" class=\"text-info\"><b>&gt; PROCES &lt;</b></a></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "30px"
+            }
+          }
+        }
+      ]
+    },
+    "proc.html": {
+      "settings": {
+        "title": "Project - proces"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-30-om-10-160x128-13.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DE BOYS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">VOORONDERZOEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proc.html\">PROCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prod.html\">PRODUCT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"arch.html\">ARCHIEF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Proces",
+          "meta": "Project"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><a href=\"proc.html#content1-3w\">KAIROS EN DE CONFRONTATIE </a>&nbsp;| &nbsp;<a href=\"proc.html#content1-1a\">IN OF UIT BALANS?</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-22\">RUST &lt; &gt; ACTIE</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-24\">MEERLAGIGE VERVREEMDING</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-3m\">TIJD GEVISUALISEERD</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-2e\">GIVE SOME TAKE SOME</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-2f\">LACHEN MET PROBLEMEN</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-2g\">SMART-COFFEE</a> &nbsp;| &nbsp;<a href=\"proc.html#content1-2q\">(FINALLY) FOCUSED</a></b></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-18",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Om van start te gaan met het ontwerpend onderzoek, zijn we allemaal snelle ideeschetsen gaan maken om van daaruit te discussiëren over de ideeën die we allemaal al hadden. Centraal stonden de eerder benoemde Chronos en Kairos en de zoektocht naar een manier om mensen met hun tijdgebruik te confronteren. De snelheid van de samenleving was hierbij ook belangrijk: iedereen blijft maar voortdoen, sneller en sneller, maar nu is het de vraag of dat ook écht vooruitgang is.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>KAIROS EN DE CONFRONTATIE</b></p><p><br></p><p>Eerst en vooral is er het mes met de weegschaal die op de scherpe kant rust. Dit is iets waar Kairos mee wordt afgebeeld en deze tekening diende als exploratie van mogelijk bruikbare vormen. In de mythlogie wijst deze weegschaal op een soort \"fragiliteit\" die in een Kairos-moment vervat zit. Zulke momenten doen zich niet zomaar voor, er moet een bepaalde balans zijn om er volledig in te kunnen opgaan. Eveneens is de balans tussen werktijd en vrije tijd bij veel mensen tegenwoordig erg verstoord, iets waar de weegschaal ook op zou kunnen wijzen.</p><p><br></p><p>De twee andere schetsen draaien rond een concreter idee om mensen hun gedrag in vraag te doen stellen. Stel: een volume met aan beide kanten een draaihendel die bijvoorbeeld een draairichting naar rechts aangeeft. Door de hendel naar deze kant te draaien krijgt de toeschouwer aan zijn eigen kant een lopende man te zien, iemand die vooruitgaat, maar wordt aan de andere zijde dezelfde beweging in tegengestelde richting aangetoond. Is het wel gunstig als we steeds vooruit blijven gaan? Is dat voor iedereen wel altijd vooruitgang? Is er een keerzijde? Op deze manier zou er een grote interactie zijn tussen de toeschouwers en het object maar ook tussen de toeschouwers onderling, wat het een sociale dimensie geeft.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-ideebeeld-1-1400x763-21.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>IN OF UIT BALANS?</b></p><p><br></p><p>Na deze schetsen zijn we verder op zoek gegaan naar manieren om een delicate balans of spanning aan te geven. De vogel is waarschijnlijk voor velen herkenbaar uit de lessen fysica op de middelbare school: een volume met een zwaartepunt dat ervoor zorgt dat het op 1 punt kan steunen en voor de rest lijkt te zweven in de lucht. Het is eigenlijk een heel stabiel gegeven aangezien het zwaartepunt onder het steunpunt ligt, maar het zier er heel delicaat uit. Dit zou een principe kunnen worden dat we verder in ons object gaan toepassen. De twee kleine schetsjes links gaan verder op zoek naar interactie tussen bezoekers en het spelen met een evenwicht.</p><p><br></p><p>De schets rechtsonder draait voornamelijk om het opzoeken van spanning. Het gaat om de combinatie van twee \"banale\" objecten die samen iets kunnen vertellen. In dit geval was het een kluis die werd opgebouwd en vormgegeven als een nachtkastje. Het idee erachter was dat mensen hun gsm of tablet hierin zouden opbergen voor het slapengaan. Deze spelen namelijk een grote rol in onze omgang met tijd vandaag: ze zorgen er enerzijds voor dat we altijd up-to-date zijn en weten hoe laat het is, maar door onze omgang ermee zijn ze voor veel mensen ook de grootste bron van tijdsverspilling.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-ideebeeld-2-1400x763-26.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-22",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><b>RUST &lt; &gt; ACTIE</b></p><p><br></p><p>In de volgende schetsen zijn we verder gegaan op de lopende man, die symbool staat voor de manier waarop veel mensen met hun tijd omgaan. Rechtsboven wordt een loper afgebeeld op een soort lopende band: hij blijft maar lopen en lopen, maar herhaalt telkens dezelfde cyclus en komt op deze manier helemaal niet verder, vindt geen meerwaarde in wat hij doet.</p><p><br></p><p>\n</p><p>\n</p><p>De grotere tekening links was een idee voor een video. Stel: een hele hoop mensen die heel enthousiast aan een looprace meedoen, zoals veel mensen nu meedoen aan de race naar meer rijkdom en - denken ze - meer geluk. Na deze beelden, die positiviteit en hoop zouden moeten uitstralen, zouden alle lopers één voor één op de grond vallen, tot er niemand meer rechtstaat. Dit idee draaide rond het symboliseren van de druk die mensen ervaren door hoe we vandaag met werk en productiviteit omgaan en hoe ze er vaak onderdoor gaan. Het is niet voor niets dat het aantal burn-outs en depressies al jaren in stijgende lijn is.</p><p><br></p><p>\n</p><p>\n</p><p>Het laatste tekeningetje, rechtsonder, ging weer over de rol van de gsm en hoe die ons vaak belet om écht tot rust te komen omdat velen een verplichting voelen om altijd bereikbaar en \"verbonden\" te zijn. Een ander element dat we erbij zijn gaan betrekken is koffie, iets dat ook een heel dubbele betekenis heeft. Enerzijds is het drinken van koffie voor veel mensen een moment van rust, iets warm en geruststellend. Langs de andere kant is koffie ook brandstof die we onszelf toedienen om net iets harder, beter of langer te kunnen werken. Ons idee was dus om de rust in een koffiemoment te benadrukken door de smartphone te laten verdwijnen. Steek je smartphone in de kluis en je krijgt een beker koffie. Is je koffie op, gooi je je beker weg om je gsm terug te krijgen. Een klein idee om mensen nog meer te confronteren met hun gsm-gedrag (of mogen we het simpelweg een verslaving noemen?) was om de telefoon na 30 seconden in de kluis te laten rinkelen, ookal wordt de toeschouwer niet gebeld. Dit zou volgens ons bij velen een (klein) moment van paniek veroorzaken, waarbij mensen in een moment van totale rust zich plots bewust worden van het feit dat zij niet altijd controle over hun gsm hebben, maar hun gsm ook controle op hen uitoefent.\n</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-26",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-ideebeeld-3-1400x763-49.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-24",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>MEERLAGIGE VERVREEMDING</b></p><p><br></p><p>In deze schetsen ging het minder over theoretische concepten, maar eerder over manieren om tijd te visualiseren in een object. Zo is het linkse een soort \"trommel\" met allemaal spiegels, waar de toeschouwer een centrale positie in inneemt. Boven de spiegels staan allemaal verschillende tijdstippen, die samen met alle spiegels een vervreemdend en desoriënterend gevoel moeten veroorzaken. Weinig dingen zijn zo stresserend als wakker worden en beseffen dat het veel later is dan je dacht, dat je \"tijd hebt gemist\". In deze installatie zouden mensen heel letterlijk visueel geconfronteerd worden met zichzelf, maar ook met de verwarring over het tijdstip, waardoor een gevoel van controleverlies wordt gecreëerd. Anderzijds kan het ook heel relativerend en rustgevend werken: \"ik sta hier nu, en wat maakt het ook uit hoe laat het is?\".</p><p><br></p><p>\n</p><p>\n</p><p>De andere twee tekeningen gingen over het gelaagd weergeven van beelden. Tijd heeft vaak met processen te maken, dingen die in de tijd gebeuren. Om deze in beelden te vatten kunnen ofwel bewegende beelden ofwel meerdere beelden gebruikt worden. Zo hadden we het idee om te printen om transparante vellen en deze op een bepaalde afstand achter elkaar te fixeren in transparante epoxy. Deze gelaagdheid kan ook gebruikt worden om in één beeld diepte te creëren en een duidelijk onderscheid te maken tussen stilstand en beweging. Dit is wat we, weliswaar heel schematisch, in het rechtse beeld willen weergeven.\n</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-25",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-ideebeeld-1-1400x763-75.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>TIJD GEVISUALISEERD</b></p><p><br></p><p>De tekening linksboven stelt een soort zandloper voor, die begint te lopen wanneer er een gsm wordt ingestoken. Op deze manier wordt de gsm overspoeld door zand, waarna het zand weer in een andere ruimte wegloopt. Hierdoor worden mensen weer verplicht om even afstand te nemen van hun smartphone en op een andere manier naar tijd te kijken.</p><p><br></p><p>De centrale tekening stelt een ontbijttafel voor waar net aan gegeten is. Het idee errond was om alle resten en gebruiksporen te fixeren om zo ook een bepaald proces of moment in de tijd weer te geven. Eten is namelijk iets heel symbolisch als het op tijd aankomt. Veel mensen komen samen om te eten en nemen daar ook hun tijd voor, waardoor er plaats kan zijn voor een Kairos-moment. Vaak moeten mensen echter ook weer door gaan na het eten of heeft er één gezinslid nog niet gegeten terwijl al de rest al vertrokken is. Op deze manier wordt de ontbijttafel een plek waar een overgangsmoment plaatsvindt, de transitie van kwali-tijd naar kwanti-tijd.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-ideebeeld-2-1400x763-66.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>GIVE SOME TAKE SOME</b></p><p><br></p><p>Dit is een ietwat extreem idee, maar volgens ons niet verkeerd. Er zijn namelijk redelijk grote problemen als het op gsm-gebruik aankomt en mensen mogen af en toe best hard geconfronteerd worden met hun gedrag. Dit is geïnspireerd door het klassieke toegangspoortje in metrostations, waar je een kaartje in steekt om het er dan weer uit te halen en door te wandelen. Bij dit apparaat zou het echter anders werken, onderandere in het feit dat het voor een toegang naar een rustplek zou dienen. Het kaartje wordt de gsm en die krijg je dan ook niet meer terug, ten minste niet in zijn geheel. Jammer, inderdaad, maar je krijgt er wel rust voor in de plaats.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-ideebeeld-3-1400x763-50.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>LACHEN MET PROBLEMEN</b></p><p><br></p><p>Bij de volgende schetsen draaide het rond \"tijd als schaars middel\" en hoe dat op een ludieke, maar confronterende manier weergegeven kan worden. Het vertrekpunt: we hebben als mensen altijd te weinig tijd, willen tijd winnen door dingen efficiënter te doen, maar vinden desondanks niet de tijd om volledig tot rust te komen.</p><p><br></p><p>De linkse tekening heeft voornamelijk een humoristische insteek en geeft tijd op een heel letterlijke manier weer. Hier is het centrale idee dat tijd iets zou kunnen zijn dat zo kostbaar is dat het net als andere kostbaarheden gestolen wordt. Vandaar dus een kapotgeslagen klok waarvan de wijzers en de getallen gestolen zijn, als ware het een glazen vitrine met kostbare juwelen.</p><p><br></p><p>Wie aan schaarscheid denkt, denkt ook vaak aan grondstoffen. We hebben ze nodig, net zoals we tijd nodig hebben. En dus gaan we ernaar op zoek, net zoals we vaak op zoek zijn naar tijd. Gaan we tijd dan ook ontginnen net als grondstoffen? En doen we dat ook tot er haast geen tijd meer te winnen valt, tot de tijd op is en alles in elkaar stort? Om met deze vragen rond de vergelijking te spelen is ook weer het banale beeld van een klok gebruikt, deze keer vervat in epoxy en vergezeld door een pikhouweel dat niets liever wilt dan bij de kostbare kern te komen.</p><p><br></p><p>Het laatste beeld is ook een humoristische commentaar op alle middelen die ze ons willen verkopen om steeds maar beter, efficiënter en gemakkelijker met onze tijd om te gaan. De smartphone is hier een voorbeeld van en toont dat de omgang met zulke middelen heel contra-productief kan worden als er te veel functies aan worden toegevoegd en mensen er fout mee omgaan. Vandaar weer een heel banaal idee, dat echter effectiever zou kunnen zijn dan veel dingen waar we wel in geloven: koop dit product en maak de pagina's van je agenda weer helemaal leeg. Win tijd, vrijheid en creativiteit.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-ideebeeld-4-1400x763-6.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Een kist met een hangslot waar \"de laatste tijd van de wereld\" in zit. De planeten die op een bepaalde manier rond de zon draaien, waardoor onze ritmes bepaald worden, worden vervangen door een gsm, een agenda en een geldbiljet. Hier lijken velen tegenwoordig vaak meer voeling mee te hebben dan met het ritme van de natuur. Een bril waarvan de glazen klokken zijn, omdat we denken dat we door onze greep op de tijd zo veel meer kunnen zien, maar vaak net daardoor blind worden voor wat echt belangrijk is. En dan onze nood aan tijd, die vergelijkbaar is met onze nood aan geld, waardoor \"time = money\" een hele nieuwe betekenis krijgt.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-ideebeeld-6-1400x763-8.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>SMART-COFFEE</b></p><p><br></p><p>Hier komen bekende beelden weer terug, maar niet zonder reden. We zijn teruggekomen op sommige ideeën die we in het proces op de achtergrond hadden laten verdwijnen, met als belangrijkste de gsm-koffiemachine. Het werd stilaan duidelijk dat de gsm iets was waar we veel mee konden doen rond het begrip tijd en ons begrip van tijd. We zijn echter van het principe dat we lang genoeg breed blijven denken, zodat we op een onderbouwde manier terug kunnen \"versmallen\" en ons kunnen focussen op iets waar we écht overtuigd van zijn.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-ideebeeld-5-1400x763-72.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>(FINALLY) FOCUSED</b></p><p><br></p><p>Na een consultmoment met de begeleiders van de opdracht werd uiteindelijk helemaal duidelijk dat de smartphone centraal zou gaan staan in ons kunstobject. We vonden dit echter iets gevaarlijk, aangezien we het nog steeds vooral over tijd wilden hebben. Daarom zijn we eerst op zoek gegaan naar literatuur om op een voldoende genuanceerde manier de link tussen de smartphone, tijd en andere maatschappelijke problemen te kunnen leggen. \"Onzekerheid, over leven in een risicomaatschappij\" van Dirk Geldof (2011) was hierbij de belangrijkste bron. Hierbij kwamen het versterken van sociale banden en het kiezen voor post-materiële waarden het sterkst naar boven, omdat deze allebei een sterke relatie hebben met zowel tijd als ons gsm-gebruik. Nu zijn we dus begonnen aan een nieuwe zoektocht: hoe kunnen we de negatieve gevolgen van de smartphone zo veel mogelijk minimaliseren en hoe kunnen we die smartphone inzetten om sociale banden te versterken en levenskwaliteit te verhogen?</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5-ideetekst-1-1400x763-69.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "Om deze vraag beter te bekijken hebben we een nieuwe brainstormsessie gedaan, rond \"toekomst-tijd\". Ons einddoel is dan ook het schetsen van een beeld van hoe mensen beter met tijd kunnen omgaan en het ontwerpen van (een) product(en) om dat te bewerkstelligen. Een aantal dingen staan hierbij centraal: (1) post-materiële waarden, het najagen van kwaliteit in plaats van kwantiteit, rust boven geld kunnen plaatsen, (2) kwaliteiten van de moderniteit behouden, achteruitgang is namelijk geen vooruitgang dus dingen volledig schrappen lijkt ons te omslachtig en (3) het feit dat het gebruik van de smartphone meer en meer een verslaving aan het worden is en dat we het probleem en de mogelijke oplossingen ook vanuit die gedachte kunnen benaderen."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-brainstorm-3-1400x763-16.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-3p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "7",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"prod.html\" class=\"text-info\"><b>&gt; PRODUCT &lt;</b></a><b><a href=\"proc.html\" class=\"text-info\"></a></b></p>"
+        }
+      ]
+    },
+    "prod.html": {
+      "settings": {
+        "title": "Project - product"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-30-om-10-160x128-13.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DE BOYS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">VOORONDERZOEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proc.html\">PROCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prod.html\">PRODUCT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"arch.html\">ARCHIEF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1c",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Product",
+          "meta": "Project"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1d",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tekst bij onderstaande afbeelding</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1f",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tekst bij onderstaande afbeelding</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "team.html": {
+      "settings": {
+        "title": "Team"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-30-om-10-160x128-13.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DE BOYS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">VOORONDERZOEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proc.html\">PROCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prod.html\">PRODUCT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"arch.html\">ARCHIEF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2u",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Team",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/team-team-1400x812-51.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/team-dick-600x600-1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Dick",
+          "subtitle1": "Production Artist",
+          "caption1": "Ik zorg voor een vlotte informatiestroom binnen het team en voor het aanreiken van ideeën met een sterk maatschappelijke context. Dit alles met een knipoog naar het serieuze en een aandacht een goede sfeer zodat iedereen met het idee verbonden is.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/team-gust-600x600-94.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Gust",
+          "subtitle2": "Creative Manager",
+          "caption2": "Mijn voornaamste bijdrage aan ons groepswerk is het relativeren van ideeën en het redeneren op technisch vlak. Ik help mee de filosofische, denkbeeldige ideeën meer tastbaar te maken door het bekijken en bedenken van constructieve mogelijkheden.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/team-jonas-600x600-90.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Jonas",
+          "subtitle3": "Silent Thinker",
+          "caption3": "Als stille persoon in de groep, luister ik altijd goed naar wat er gebeurt en wat er gezegd wordt. Op deze manier is mijn creativiteit altijd in werking en kan ik mijn mening en ideeën delen met de groep wanneer het nodig is of voor mij het beste aanvoelt.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/team-oskar-600x600-96.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Oskar",
+          "subtitle4": "Director of Philosophy",
+          "caption4": "Filosoferen en theoretiseren is mijn grootste taak in de groep. Door dit te doen kan ik ervoor zorgen dat er op een concrete manier stappen worden gezet, zodat het creatieve proces minstens even waardevol wordt als het eindproduct zelf.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "arch.html": {
+      "settings": {
+        "title": "Archief"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-30-om-10-160x128-13.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DE BOYS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">VOORONDERZOEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proc.html\">PROCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prod.html\">PRODUCT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"arch.html\">ARCHIEF</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-u",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    }
+  }
+}
