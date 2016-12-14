@@ -415,9 +415,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c1c1c1;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -561,12 +558,12 @@ h6,
 #header3-12 SMALL {
   text-align: right;
 }
+#content1-4a P {
+  text-align: center;
+}
 #content1-3t P {
   text-align: center;
   font-size: 13px;
-}
-#content1-13 P {
-  text-align: left;
 }
 #content1-3o P {
   text-align: center;
@@ -639,6 +636,9 @@ h6,
 }
 #header3-17 .mbr-section-title,
 #header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-49 P {
   text-align: center;
 }
 #content1-3v P {
